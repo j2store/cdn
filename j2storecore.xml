@@ -1,0 +1,4507 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Update stream generated automatically by Akeeba Release System on 2016-05-17 14:27:43 GMT -->
+<updates>
+<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.16</version>
+		<infourl
+				title="J2Store V3 3.3.16">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-16.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-16/com_j2store_v3-3-3-16-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.16</version>
+		<infourl
+				title="J2Store V3 3.3.16">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-16.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-16/com_j2store_v3-3-3-16-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.16</version>
+		<infourl
+				title="J2Store V3 3.3.16">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-16.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-16/com_j2store_v3-3-3-16-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.16</version>
+		<infourl
+				title="J2Store V3 3.3.16">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-16.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-16/com_j2store_v3-3-3-16-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.16</version>
+		<infourl
+				title="J2Store V3 3.3.16">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-16.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-16/com_j2store_v3-3-3-16-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.16</version>
+		<infourl
+				title="J2Store V3 3.3.16">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-16.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-16/com_j2store_v3-3-3-16-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.15</version>
+		<infourl
+				title="J2Store V3 3.3.15">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-15.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-15/com_j2store_v3-3-3-15-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.15</version>
+		<infourl
+				title="J2Store V3 3.3.15">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-15.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-15/com_j2store_v3-3-3-15-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.15</version>
+		<infourl
+				title="J2Store V3 3.3.15">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-15.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-15/com_j2store_v3-3-3-15-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.15</version>
+		<infourl
+				title="J2Store V3 3.3.15">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-15.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-15/com_j2store_v3-3-3-15-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.15</version>
+		<infourl
+				title="J2Store V3 3.3.15">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-15.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-15/com_j2store_v3-3-3-15-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.15</version>
+		<infourl
+				title="J2Store V3 3.3.15">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-15.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-15/com_j2store_v3-3-3-15-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.14</version>
+		<infourl
+				title="J2Store V3 3.3.14">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-14.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-14/com_j2store_v3-3-3-14-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.14</version>
+		<infourl
+				title="J2Store V3 3.3.14">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-14.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-14/com_j2store_v3-3-3-14-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.14</version>
+		<infourl
+				title="J2Store V3 3.3.14">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-14.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-14/com_j2store_v3-3-3-14-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.14</version>
+		<infourl
+				title="J2Store V3 3.3.14">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-14.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-14/com_j2store_v3-3-3-14-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.14</version>
+		<infourl
+				title="J2Store V3 3.3.14">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-14.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-14/com_j2store_v3-3-3-14-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.14</version>
+		<infourl
+				title="J2Store V3 3.3.14">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-14.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-14/com_j2store_v3-3-3-14-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.13</version>
+		<infourl
+				title="J2Store V3 3.3.13">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-13.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-13/com_j2store_v3-3-3-13-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.13</version>
+		<infourl
+				title="J2Store V3 3.3.13">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-13.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-13/com_j2store_v3-3-3-13-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.13</version>
+		<infourl
+				title="J2Store V3 3.3.13">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-13.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-13/com_j2store_v3-3-3-13-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.13</version>
+		<infourl
+				title="J2Store V3 3.3.13">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-13.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-13/com_j2store_v3-3-3-13-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.13</version>
+		<infourl
+				title="J2Store V3 3.3.13">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-13.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-13/com_j2store_v3-3-3-13-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.13</version>
+		<infourl
+				title="J2Store V3 3.3.13">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/j2store-v3-3-3-13.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/j2store-v3-3-3-13/com_j2store_v3-3-3-13-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.12</version>
+		<infourl
+				title="J2Store V3 3.3.12">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/com_j2store_v3-3-3-12-core.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/com_j2store_v3-3-3-12-core/com_j2store_v3-3-3-12-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.12</version>
+		<infourl
+				title="J2Store V3 3.3.12">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/com_j2store_v3-3-3-12-core.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/com_j2store_v3-3-3-12-core/com_j2store_v3-3-3-12-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.12</version>
+		<infourl
+				title="J2Store V3 3.3.12">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/com_j2store_v3-3-3-12-core.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/com_j2store_v3-3-3-12-core/com_j2store_v3-3-3-12-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.12</version>
+		<infourl
+				title="J2Store V3 3.3.12">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/com_j2store_v3-3-3-12-core.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/com_j2store_v3-3-3-12-core/com_j2store_v3-3-3-12-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.12</version>
+		<infourl
+				title="J2Store V3 3.3.12">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/com_j2store_v3-3-3-12-core.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/com_j2store_v3-3-3-12-core/com_j2store_v3-3-3-12-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.12</version>
+		<infourl
+				title="J2Store V3 3.3.12">
+			<![CDATA[https://www.j2store.org/j2store-v3-releases/j2store-v3/com_j2store_v3-3-3-12-core.html			]]>
+		</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip"><![CDATA[https://www.j2store.org/download-j2store/com_j2store_v3-3-3-12-core/com_j2store_v3-3-3-12-core.zip?format=raw&dummy=my.zip]]>
+			</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.11</version>
+		<infourl
+            title="J2Store V3 3.3.11">https://www.j2store.org/component/ars/?view=Items&amp;release_id=135</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=197&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.11</version>
+		<infourl
+            title="J2Store V3 3.3.11">https://www.j2store.org/component/ars/?view=Items&amp;release_id=135</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=197&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.11</version>
+		<infourl
+            title="J2Store V3 3.3.11">https://www.j2store.org/component/ars/?view=Items&amp;release_id=135</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=197&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.11</version>
+		<infourl
+            title="J2Store V3 3.3.11">https://www.j2store.org/component/ars/?view=Items&amp;release_id=135</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=197&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.11</version>
+		<infourl
+            title="J2Store V3 3.3.11">https://www.j2store.org/component/ars/?view=Items&amp;release_id=135</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=197&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.11</version>
+		<infourl
+            title="J2Store V3 3.3.11">https://www.j2store.org/component/ars/?view=Items&amp;release_id=135</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=197&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.9</version>
+		<infourl
+            title="J2Store V3 3.3.9">https://www.j2store.org/component/ars/?view=Items&amp;release_id=133</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=192&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.9</version>
+		<infourl
+            title="J2Store V3 3.3.9">https://www.j2store.org/component/ars/?view=Items&amp;release_id=133</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=192&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.9</version>
+		<infourl
+            title="J2Store V3 3.3.9">https://www.j2store.org/component/ars/?view=Items&amp;release_id=133</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=192&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.9</version>
+		<infourl
+            title="J2Store V3 3.3.9">https://www.j2store.org/component/ars/?view=Items&amp;release_id=133</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=192&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.9</version>
+		<infourl
+            title="J2Store V3 3.3.9">https://www.j2store.org/component/ars/?view=Items&amp;release_id=133</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=192&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.9</version>
+		<infourl
+            title="J2Store V3 3.3.9">https://www.j2store.org/component/ars/?view=Items&amp;release_id=133</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=192&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+							<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.8</version>
+		<infourl
+            title="J2Store V3 3.3.8">https://www.j2store.org/component/ars/?view=Items&amp;release_id=132</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=190&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.8</version>
+		<infourl
+            title="J2Store V3 3.3.8">https://www.j2store.org/component/ars/?view=Items&amp;release_id=132</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=190&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.8</version>
+		<infourl
+            title="J2Store V3 3.3.8">https://www.j2store.org/component/ars/?view=Items&amp;release_id=132</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=190&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.8</version>
+		<infourl
+            title="J2Store V3 3.3.8">https://www.j2store.org/component/ars/?view=Items&amp;release_id=132</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=190&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.8</version>
+		<infourl
+            title="J2Store V3 3.3.8">https://www.j2store.org/component/ars/?view=Items&amp;release_id=132</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=190&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.8</version>
+		<infourl
+            title="J2Store V3 3.3.8">https://www.j2store.org/component/ars/?view=Items&amp;release_id=132</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=190&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.7</version>
+		<infourl
+            title="J2Store V3 3.3.7">https://www.j2store.org/component/ars/?view=Items&amp;release_id=131</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=188&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.7</version>
+		<infourl
+            title="J2Store V3 3.3.7">https://www.j2store.org/component/ars/?view=Items&amp;release_id=131</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=188&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.7</version>
+		<infourl
+            title="J2Store V3 3.3.7">https://www.j2store.org/component/ars/?view=Items&amp;release_id=131</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=188&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.7</version>
+		<infourl
+            title="J2Store V3 3.3.7">https://www.j2store.org/component/ars/?view=Items&amp;release_id=131</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=188&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.7</version>
+		<infourl
+            title="J2Store V3 3.3.7">https://www.j2store.org/component/ars/?view=Items&amp;release_id=131</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=188&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.7</version>
+		<infourl
+            title="J2Store V3 3.3.7">https://www.j2store.org/component/ars/?view=Items&amp;release_id=131</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=188&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.6</version>
+		<infourl
+            title="J2Store V3 3.3.6">https://www.j2store.org/component/ars/?view=Items&amp;release_id=130</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=186&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.6</version>
+		<infourl
+            title="J2Store V3 3.3.6">https://www.j2store.org/component/ars/?view=Items&amp;release_id=130</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=186&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.6</version>
+		<infourl
+            title="J2Store V3 3.3.6">https://www.j2store.org/component/ars/?view=Items&amp;release_id=130</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=186&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.6</version>
+		<infourl
+            title="J2Store V3 3.3.6">https://www.j2store.org/component/ars/?view=Items&amp;release_id=130</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=186&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.6</version>
+		<infourl
+            title="J2Store V3 3.3.6">https://www.j2store.org/component/ars/?view=Items&amp;release_id=130</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=186&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.6</version>
+		<infourl
+            title="J2Store V3 3.3.6">https://www.j2store.org/component/ars/?view=Items&amp;release_id=130</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=186&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.5</version>
+		<infourl
+            title="J2Store V3 3.3.5">https://www.j2store.org/component/ars/?view=Items&amp;release_id=129</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=184&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.5</version>
+		<infourl
+            title="J2Store V3 3.3.5">https://www.j2store.org/component/ars/?view=Items&amp;release_id=129</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=184&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.5</version>
+		<infourl
+            title="J2Store V3 3.3.5">https://www.j2store.org/component/ars/?view=Items&amp;release_id=129</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=184&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.5</version>
+		<infourl
+            title="J2Store V3 3.3.5">https://www.j2store.org/component/ars/?view=Items&amp;release_id=129</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=184&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.5</version>
+		<infourl
+            title="J2Store V3 3.3.5">https://www.j2store.org/component/ars/?view=Items&amp;release_id=129</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=184&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.5</version>
+		<infourl
+            title="J2Store V3 3.3.5">https://www.j2store.org/component/ars/?view=Items&amp;release_id=129</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=184&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.4</version>
+		<infourl
+            title="J2Store V3 3.3.4">https://www.j2store.org/component/ars/?view=Items&amp;release_id=128</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=183&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.4</version>
+		<infourl
+            title="J2Store V3 3.3.4">https://www.j2store.org/component/ars/?view=Items&amp;release_id=128</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=183&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.4</version>
+		<infourl
+            title="J2Store V3 3.3.4">https://www.j2store.org/component/ars/?view=Items&amp;release_id=128</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=183&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.4</version>
+		<infourl
+            title="J2Store V3 3.3.4">https://www.j2store.org/component/ars/?view=Items&amp;release_id=128</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=183&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.4</version>
+		<infourl
+            title="J2Store V3 3.3.4">https://www.j2store.org/component/ars/?view=Items&amp;release_id=128</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=183&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.4</version>
+		<infourl
+            title="J2Store V3 3.3.4">https://www.j2store.org/component/ars/?view=Items&amp;release_id=128</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=183&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.3</version>
+		<infourl
+            title="J2Store V3 3.3.3">https://www.j2store.org/component/ars/?view=Items&amp;release_id=127</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=180&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.3</version>
+		<infourl
+            title="J2Store V3 3.3.3">https://www.j2store.org/component/ars/?view=Items&amp;release_id=127</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=180&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.3</version>
+		<infourl
+            title="J2Store V3 3.3.3">https://www.j2store.org/component/ars/?view=Items&amp;release_id=127</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=180&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.3</version>
+		<infourl
+            title="J2Store V3 3.3.3">https://www.j2store.org/component/ars/?view=Items&amp;release_id=127</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=180&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.3</version>
+		<infourl
+            title="J2Store V3 3.3.3">https://www.j2store.org/component/ars/?view=Items&amp;release_id=127</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=180&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.2</version>
+		<infourl
+            title="J2Store V3 3.3.2">https://www.j2store.org/component/ars/?view=Items&amp;release_id=126</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=178&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.2</version>
+		<infourl
+            title="J2Store V3 3.3.2">https://www.j2store.org/component/ars/?view=Items&amp;release_id=126</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=178&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.2</version>
+		<infourl
+            title="J2Store V3 3.3.2">https://www.j2store.org/component/ars/?view=Items&amp;release_id=126</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=178&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.2</version>
+		<infourl
+            title="J2Store V3 3.3.2">https://www.j2store.org/component/ars/?view=Items&amp;release_id=126</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=178&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.2</version>
+		<infourl
+            title="J2Store V3 3.3.2">https://www.j2store.org/component/ars/?view=Items&amp;release_id=126</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=178&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.1</version>
+		<infourl
+            title="J2Store V3 3.3.1">https://www.j2store.org/component/ars/?view=Items&amp;release_id=125</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=177&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.1</version>
+		<infourl
+            title="J2Store V3 3.3.1">https://www.j2store.org/component/ars/?view=Items&amp;release_id=125</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=177&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.1</version>
+		<infourl
+            title="J2Store V3 3.3.1">https://www.j2store.org/component/ars/?view=Items&amp;release_id=125</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=177&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.1</version>
+		<infourl
+            title="J2Store V3 3.3.1">https://www.j2store.org/component/ars/?view=Items&amp;release_id=125</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=177&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.1</version>
+		<infourl
+            title="J2Store V3 3.3.1">https://www.j2store.org/component/ars/?view=Items&amp;release_id=125</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=177&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.0</version>
+		<infourl
+            title="J2Store V3 3.3.0">https://www.j2store.org/component/ars/?view=Items&amp;release_id=124</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=175&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.0</version>
+		<infourl
+            title="J2Store V3 3.3.0">https://www.j2store.org/component/ars/?view=Items&amp;release_id=124</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=175&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.0</version>
+		<infourl
+            title="J2Store V3 3.3.0">https://www.j2store.org/component/ars/?view=Items&amp;release_id=124</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=175&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.0</version>
+		<infourl
+            title="J2Store V3 3.3.0">https://www.j2store.org/component/ars/?view=Items&amp;release_id=124</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=175&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.3.0</version>
+		<infourl
+            title="J2Store V3 3.3.0">https://www.j2store.org/component/ars/?view=Items&amp;release_id=124</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=175&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.29</version>
+		<infourl
+            title="J2Store V3 3.2.29">https://www.j2store.org/component/ars/?view=Items&amp;release_id=123</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=173&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.29</version>
+		<infourl
+            title="J2Store V3 3.2.29">https://www.j2store.org/component/ars/?view=Items&amp;release_id=123</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=173&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.29</version>
+		<infourl
+            title="J2Store V3 3.2.29">https://www.j2store.org/component/ars/?view=Items&amp;release_id=123</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=173&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.29</version>
+		<infourl
+            title="J2Store V3 3.2.29">https://www.j2store.org/component/ars/?view=Items&amp;release_id=123</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=173&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.29</version>
+		<infourl
+            title="J2Store V3 3.2.29">https://www.j2store.org/component/ars/?view=Items&amp;release_id=123</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=173&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.28</version>
+		<infourl
+            title="J2Store V3 3.2.28">https://www.j2store.org/component/ars/?view=Items&amp;release_id=122</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=170&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.28</version>
+		<infourl
+            title="J2Store V3 3.2.28">https://www.j2store.org/component/ars/?view=Items&amp;release_id=122</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=170&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.28</version>
+		<infourl
+            title="J2Store V3 3.2.28">https://www.j2store.org/component/ars/?view=Items&amp;release_id=122</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=170&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.28</version>
+		<infourl
+            title="J2Store V3 3.2.28">https://www.j2store.org/component/ars/?view=Items&amp;release_id=122</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=170&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.28</version>
+		<infourl
+            title="J2Store V3 3.2.28">https://www.j2store.org/component/ars/?view=Items&amp;release_id=122</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=170&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.27</version>
+		<infourl
+            title="J2Store V3 3.2.27">https://www.j2store.org/component/ars/?view=Items&amp;release_id=121</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=168&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.27</version>
+		<infourl
+            title="J2Store V3 3.2.27">https://www.j2store.org/component/ars/?view=Items&amp;release_id=121</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=168&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.27</version>
+		<infourl
+            title="J2Store V3 3.2.27">https://www.j2store.org/component/ars/?view=Items&amp;release_id=121</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=168&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.27</version>
+		<infourl
+            title="J2Store V3 3.2.27">https://www.j2store.org/component/ars/?view=Items&amp;release_id=121</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=168&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.27</version>
+		<infourl
+            title="J2Store V3 3.2.27">https://www.j2store.org/component/ars/?view=Items&amp;release_id=121</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=168&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.26</version>
+		<infourl
+            title="J2Store V3 3.2.26">https://www.j2store.org/component/ars/?view=Items&amp;release_id=120</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=167&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.26</version>
+		<infourl
+            title="J2Store V3 3.2.26">https://www.j2store.org/component/ars/?view=Items&amp;release_id=120</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=167&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.26</version>
+		<infourl
+            title="J2Store V3 3.2.26">https://www.j2store.org/component/ars/?view=Items&amp;release_id=120</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=167&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.26</version>
+		<infourl
+            title="J2Store V3 3.2.26">https://www.j2store.org/component/ars/?view=Items&amp;release_id=120</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=167&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.26</version>
+		<infourl
+            title="J2Store V3 3.2.26">https://www.j2store.org/component/ars/?view=Items&amp;release_id=120</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=167&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.8"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.25</version>
+		<infourl
+            title="J2Store V3 3.2.25">https://www.j2store.org/component/ars/?view=Items&amp;release_id=118</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=162&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.25</version>
+		<infourl
+            title="J2Store V3 3.2.25">https://www.j2store.org/component/ars/?view=Items&amp;release_id=118</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=162&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.25</version>
+		<infourl
+            title="J2Store V3 3.2.25">https://www.j2store.org/component/ars/?view=Items&amp;release_id=118</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=162&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.25</version>
+		<infourl
+            title="J2Store V3 3.2.25">https://www.j2store.org/component/ars/?view=Items&amp;release_id=118</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=162&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+			<update>
+			<name><![CDATA[J2Store Version 3 Free]]></name>
+			<description><![CDATA[J2Store Version 3 Free]]></description>
+			<element>com_j2store</element>
+			<type>component</type>
+			<version>3.2.25</version>
+			<infourl
+	            title="J2Store V3 3.2.25">https://www.j2store.org/component/ars/?view=Items&amp;release_id=118</infourl>
+			<downloads>
+				<downloadurl type="full"
+							 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=162&amp;dummy=my.zip</downloadurl>
+			</downloads>
+			<tags>
+				<tag>stable</tag>
+			</tags>
+			<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+			<maintainerurl>https://www.j2store.org/</maintainerurl>
+			<section>Updates</section>
+			<targetplatform name="joomla" version="3.8"/>
+						<client>1</client>
+					<folder></folder>
+				</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.24</version>
+		<infourl
+            title="J2Store V3 3.2.24">https://www.j2store.org/j2store-free-update.html?view=Items&amp;release_id=117</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/j2store-free-update.raw?view=Item&amp;task=download&amp;id=160&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.24</version>
+		<infourl
+            title="J2Store V3 3.2.24">https://www.j2store.org/j2store-free-update.html?view=Items&amp;release_id=117</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/j2store-free-update.raw?view=Item&amp;task=download&amp;id=160&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.24</version>
+		<infourl
+            title="J2Store V3 3.2.24">https://www.j2store.org/j2store-free-update.html?view=Items&amp;release_id=117</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/j2store-free-update.raw?view=Item&amp;task=download&amp;id=160&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.24</version>
+		<infourl
+            title="J2Store V3 3.2.24">https://www.j2store.org/j2store-free-update.html?view=Items&amp;release_id=117</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/j2store-free-update.raw?view=Item&amp;task=download&amp;id=160&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.23</version>
+		<infourl
+            title="J2Store V3 3.2.23">https://www.j2store.org/component/ars/?view=Items&amp;release_id=116</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=158&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.23</version>
+		<infourl
+            title="J2Store V3 3.2.23">https://www.j2store.org/component/ars/?view=Items&amp;release_id=116</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=158&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.23</version>
+		<infourl
+            title="J2Store V3 3.2.23">https://www.j2store.org/component/ars/?view=Items&amp;release_id=116</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=158&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.23</version>
+		<infourl
+            title="J2Store V3 3.2.23">https://www.j2store.org/component/ars/?view=Items&amp;release_id=116</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=158&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.22</version>
+		<infourl
+            title="J2Store V3 3.2.22">https://www.j2store.org/component/ars/?view=Items&amp;release_id=115</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=157&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.22</version>
+		<infourl
+            title="J2Store V3 3.2.22">https://www.j2store.org/component/ars/?view=Items&amp;release_id=115</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=157&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.22</version>
+		<infourl
+            title="J2Store V3 3.2.22">https://www.j2store.org/component/ars/?view=Items&amp;release_id=115</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=157&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.22</version>
+		<infourl
+            title="J2Store V3 3.2.22">https://www.j2store.org/component/ars/?view=Items&amp;release_id=115</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=157&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.21</version>
+		<infourl
+            title="J2Store V3 3.2.21">https://www.j2store.org/component/ars/?view=Items&amp;release_id=114</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=154&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.21</version>
+		<infourl
+            title="J2Store V3 3.2.21">https://www.j2store.org/component/ars/?view=Items&amp;release_id=114</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=154&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.21</version>
+		<infourl
+            title="J2Store V3 3.2.21">https://www.j2store.org/component/ars/?view=Items&amp;release_id=114</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=154&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.21</version>
+		<infourl
+            title="J2Store V3 3.2.21">https://www.j2store.org/component/ars/?view=Items&amp;release_id=114</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=154&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.20</version>
+		<infourl
+            title="J2Store V3 3.2.20">https://www.j2store.org/component/ars/?view=Items&amp;release_id=113</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=153&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.4"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.20</version>
+		<infourl
+            title="J2Store V3 3.2.20">https://www.j2store.org/component/ars/?view=Items&amp;release_id=113</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=153&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.5"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.20</version>
+		<infourl
+            title="J2Store V3 3.2.20">https://www.j2store.org/component/ars/?view=Items&amp;release_id=113</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=153&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.6"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+		<update>
+		<name><![CDATA[J2Store Version 3 Free]]></name>
+		<description><![CDATA[J2Store Version 3 Free]]></description>
+		<element>com_j2store</element>
+		<type>component</type>
+		<version>3.2.20</version>
+		<infourl
+            title="J2Store V3 3.2.20">https://www.j2store.org/component/ars/?view=Items&amp;release_id=113</infourl>
+		<downloads>
+			<downloadurl type="full"
+						 format="zip">https://www.j2store.org/component/ars/?view=Item&amp;task=download&amp;format=raw&amp;id=153&amp;dummy=my.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+		<maintainerurl>https://www.j2store.org/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.7"/>
+					<client>1</client>
+				<folder></folder>
+			</update>
+	<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.19</version>
+				<infourl title="J2Store V3 3.2.19">https://www.j2store.org/component/ars/?view=release&amp;id=111</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=149&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.6" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.19</version>
+				<infourl title="J2Store V3 3.2.19">https://www.j2store.org/component/ars/?view=release&amp;id=111</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=149&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.19</version>
+				<infourl title="J2Store V3 3.2.19">https://www.j2store.org/component/ars/?view=release&amp;id=111</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=149&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+	<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.18</version>
+				<infourl title="J2Store V3 3.2.18">https://www.j2store.org/component/ars/?view=release&amp;id=110</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=148&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.6" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.18</version>
+				<infourl title="J2Store V3 3.2.18">https://www.j2store.org/component/ars/?view=release&amp;id=110</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=148&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.18</version>
+				<infourl title="J2Store V3 3.2.18">https://www.j2store.org/component/ars/?view=release&amp;id=110</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=148&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+	<update>
+					<name>J2Store Version 3 Free</name>
+					<description>J2Store Version 3 Free</description>
+					<element>com_j2store</element>
+					<type>component</type>
+					<version>3.2.17</version>
+					<infourl title="J2Store V3 3.2.17">https://www.j2store.org/component/ars/?view=release&amp;id=109</infourl>
+					<downloads>
+						<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=145&amp;dummy=my.zip</downloadurl>
+					</downloads>
+					<tags>
+						<tag>stable</tag>
+					</tags>
+					<maintainer>J2Store - Joomla shopping cart</maintainer>
+					<maintainerurl>https://www.j2store.org/</maintainerurl>
+					<section>Updates</section>
+					<targetplatform name="joomla" version="3.6" />
+								<client>administrator</client>
+							<folder></folder>
+				</update>
+						<update>
+					<name>J2Store Version 3 Free</name>
+					<description>J2Store Version 3 Free</description>
+					<element>com_j2store</element>
+					<type>component</type>
+					<version>3.2.17</version>
+					<infourl title="J2Store V3 3.2.17">https://www.j2store.org/component/ars/?view=release&amp;id=109</infourl>
+					<downloads>
+						<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=145&amp;dummy=my.zip</downloadurl>
+					</downloads>
+					<tags>
+						<tag>stable</tag>
+					</tags>
+					<maintainer>J2Store - Joomla shopping cart</maintainer>
+					<maintainerurl>https://www.j2store.org/</maintainerurl>
+					<section>Updates</section>
+					<targetplatform name="joomla" version="3.5" />
+								<client>administrator</client>
+							<folder></folder>
+				</update>
+						<update>
+					<name>J2Store Version 3 Free</name>
+					<description>J2Store Version 3 Free</description>
+					<element>com_j2store</element>
+					<type>component</type>
+					<version>3.2.17</version>
+					<infourl title="J2Store V3 3.2.17">https://www.j2store.org/component/ars/?view=release&amp;id=109</infourl>
+					<downloads>
+						<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=145&amp;dummy=my.zip</downloadurl>
+					</downloads>
+					<tags>
+						<tag>stable</tag>
+					</tags>
+					<maintainer>J2Store - Joomla shopping cart</maintainer>
+					<maintainerurl>https://www.j2store.org/</maintainerurl>
+					<section>Updates</section>
+					<targetplatform name="joomla" version="3.4" />
+								<client>administrator</client>
+							<folder></folder>
+				</update>
+	<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.16</version>
+				<infourl title="J2Store V3 3.2.16">https://www.j2store.org/component/ars/?view=release&amp;id=108</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=144&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.6" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.16</version>
+				<infourl title="J2Store V3 3.2.16">https://www.j2store.org/component/ars/?view=release&amp;id=108</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=144&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.16</version>
+				<infourl title="J2Store V3 3.2.16">https://www.j2store.org/component/ars/?view=release&amp;id=108</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=144&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+	<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.15</version>
+				<infourl title="J2Store V3 3.2.15">https://www.j2store.org/component/ars/?view=release&amp;id=107</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=141&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.6" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.15</version>
+				<infourl title="J2Store V3 3.2.15">https://www.j2store.org/component/ars/?view=release&amp;id=107</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=141&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.15</version>
+				<infourl title="J2Store V3 3.2.15">https://www.j2store.org/component/ars/?view=release&amp;id=107</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=141&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+	<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.14</version>
+				<infourl title="J2Store V3 3.2.14">https://www.j2store.org/component/ars/?view=release&amp;id=106</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=140&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.6" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.14</version>
+				<infourl title="J2Store V3 3.2.14">https://www.j2store.org/component/ars/?view=release&amp;id=106</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=140&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.14</version>
+				<infourl title="J2Store V3 3.2.14">https://www.j2store.org/component/ars/?view=release&amp;id=106</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=140&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+	<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.13</version>
+				<infourl title="J2Store V3 3.2.13">https://www.j2store.org/component/ars/?view=release&amp;id=105</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=137&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.6" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.13</version>
+				<infourl title="J2Store V3 3.2.13">https://www.j2store.org/component/ars/?view=release&amp;id=105</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=137&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.13</version>
+				<infourl title="J2Store V3 3.2.13">https://www.j2store.org/component/ars/?view=release&amp;id=105</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=137&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+				<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.12</version>
+				<infourl title="J2Store V3 3.2.12">https://www.j2store.org/component/ars/?view=release&amp;id=104</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=136&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.12</version>
+				<infourl title="J2Store V3 3.2.12">https://www.j2store.org/component/ars/?view=release&amp;id=104</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=136&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.11</version>
+				<infourl title="J2Store V3 3.2.11">https://www.j2store.org/component/ars/?view=release&amp;id=103</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=133&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.11</version>
+				<infourl title="J2Store V3 3.2.11">https://www.j2store.org/component/ars/?view=release&amp;id=103</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=133&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.10</version>
+				<infourl title="J2Store V3 3.2.10">https://www.j2store.org/component/ars/?view=release&amp;id=102</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=132&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.10</version>
+				<infourl title="J2Store V3 3.2.10">https://www.j2store.org/component/ars/?view=release&amp;id=102</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=132&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.10</version>
+				<infourl title="J2Store V3 3.2.10">https://www.j2store.org/component/ars/?view=release&amp;id=102</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=132&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.8</version>
+				<infourl title="J2Store V3 3.2.8">https://www.j2store.org/component/ars/?view=release&amp;id=100</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=128&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.8</version>
+				<infourl title="J2Store V3 3.2.8">https://www.j2store.org/component/ars/?view=release&amp;id=100</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=128&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.8</version>
+				<infourl title="J2Store V3 3.2.8">https://www.j2store.org/component/ars/?view=release&amp;id=100</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=128&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.7</version>
+				<infourl title="J2Store V3 3.2.7">https://www.j2store.org/component/ars/?view=release&amp;id=99</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=125&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.5" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.7</version>
+				<infourl title="J2Store V3 3.2.7">https://www.j2store.org/component/ars/?view=release&amp;id=99</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=125&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.7</version>
+				<infourl title="J2Store V3 3.2.7">https://www.j2store.org/component/ars/?view=release&amp;id=99</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=125&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.6</version>
+				<infourl title="J2Store V3 3.2.6">https://www.j2store.org/component/ars/?view=release&amp;id=98</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=124&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.6</version>
+				<infourl title="J2Store V3 3.2.6">https://www.j2store.org/component/ars/?view=release&amp;id=98</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=124&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.5</version>
+				<infourl title="J2Store V3 3.2.5">https://www.j2store.org/component/ars/?view=release&amp;id=97</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=121&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.5</version>
+				<infourl title="J2Store V3 3.2.5">https://www.j2store.org/component/ars/?view=release&amp;id=97</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=121&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.4</version>
+				<infourl title="J2Store V3 3.2.4">https://www.j2store.org/component/ars/?view=release&amp;id=96</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=120&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.4</version>
+				<infourl title="J2Store V3 3.2.4">https://www.j2store.org/component/ars/?view=release&amp;id=96</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=120&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.2</version>
+				<infourl title="J2Store V3 3.2.2">https://www.j2store.org/component/ars/?view=release&amp;id=94</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=116&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.2</version>
+				<infourl title="J2Store V3 3.2.2">https://www.j2store.org/component/ars/?view=release&amp;id=94</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=116&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.1</version>
+				<infourl title="J2Store V3 3.2.1">https://www.j2store.org/component/ars/?view=release&amp;id=93</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=113&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.2.1</version>
+				<infourl title="J2Store V3 3.2.1">https://www.j2store.org/component/ars/?view=release&amp;id=93</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=113&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.10</version>
+				<infourl title="J2Store V3 3.1.10">https://www.j2store.org/component/ars/?view=release&amp;id=91</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=109&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.10</version>
+				<infourl title="J2Store V3 3.1.10">https://www.j2store.org/component/ars/?view=release&amp;id=91</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=109&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.9</version>
+				<infourl title="J2Store V3 3.1.9">https://www.j2store.org/component/ars/?view=release&amp;id=90</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=108&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.9</version>
+				<infourl title="J2Store V3 3.1.9">https://www.j2store.org/component/ars/?view=release&amp;id=90</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=108&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.8</version>
+				<infourl title="J2Store V3 3.1.8">https://www.j2store.org/component/ars/?view=release&amp;id=89</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=105&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.8</version>
+				<infourl title="J2Store V3 3.1.8">https://www.j2store.org/component/ars/?view=release&amp;id=89</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=105&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.7</version>
+				<infourl title="J2Store V3 3.1.7">https://www.j2store.org/component/ars/?view=release&amp;id=88</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=104&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.7</version>
+				<infourl title="J2Store V3 3.1.7">https://www.j2store.org/component/ars/?view=release&amp;id=88</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=104&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.6</version>
+				<infourl title="J2Store V3 3.1.6">https://www.j2store.org/component/ars/?view=release&amp;id=87</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=101&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.6</version>
+				<infourl title="J2Store V3 3.1.6">https://www.j2store.org/component/ars/?view=release&amp;id=87</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=101&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.5</version>
+				<infourl title="J2Store V3 3.1.5">https://www.j2store.org/component/ars/?view=release&amp;id=84</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=98&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.5</version>
+				<infourl title="J2Store V3 3.1.5">https://www.j2store.org/component/ars/?view=release&amp;id=84</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=98&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.4</version>
+				<infourl title="J2Store V3 3.1.4">https://www.j2store.org/component/ars/?view=release&amp;id=83</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=95&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.4</version>
+				<infourl title="J2Store V3 3.1.4">https://www.j2store.org/component/ars/?view=release&amp;id=83</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=95&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.3</version>
+				<infourl title="J2Store V3 3.1.3">https://www.j2store.org/component/ars/?view=release&amp;id=82</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=94&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.3</version>
+				<infourl title="J2Store V3 3.1.3">https://www.j2store.org/component/ars/?view=release&amp;id=82</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=94&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.2</version>
+				<infourl title="J2Store V3 3.1.2">https://www.j2store.org/component/ars/?view=release&amp;id=81</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=91&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.2</version>
+				<infourl title="J2Store V3 3.1.2">https://www.j2store.org/component/ars/?view=release&amp;id=81</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=91&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.1</version>
+				<infourl title="J2Store V3 3.1.1">https://www.j2store.org/component/ars/?view=release&amp;id=80</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=90&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.1</version>
+				<infourl title="J2Store V3 3.1.1">https://www.j2store.org/component/ars/?view=release&amp;id=80</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=90&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.0</version>
+				<infourl title="J2Store V3 3.1.0">https://www.j2store.org/component/ars/?view=release&amp;id=79</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=87&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.1.0</version>
+				<infourl title="J2Store V3 3.1.0">https://www.j2store.org/component/ars/?view=release&amp;id=79</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=87&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.0.8</version>
+				<infourl title="J2Store V3 3.0.8">https://www.j2store.org/component/ars/?view=release&amp;id=76</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=84&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.4" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.0.8</version>
+				<infourl title="J2Store V3 3.0.8">https://www.j2store.org/component/ars/?view=release&amp;id=76</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=84&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.0.7</version>
+				<infourl title="J2Store V3 3.0.7">https://www.j2store.org/component/ars/?view=release&amp;id=73</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=79&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>stable</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+					<update>
+				<name>J2Store Version 3 Free</name>
+				<description>J2Store Version 3 Free</description>
+				<element>com_j2store</element>
+				<type>component</type>
+				<version>3.0.6</version>
+				<infourl title="J2Store V3 3.0.6">https://www.j2store.org/component/ars/?view=release&amp;id=72</infourl>
+				<downloads>
+					<downloadurl type="full" format="zip">https://www.j2store.org/component/ars/?view=download&amp;id=78&amp;dummy=my.zip</downloadurl>
+				</downloads>
+				<tags>
+					<tag>rc</tag>
+				</tags>
+				<maintainer>J2Store - Joomla shopping cart</maintainer>
+				<maintainerurl>https://www.j2store.org/</maintainerurl>
+				<section>Updates</section>
+				<targetplatform name="joomla" version="3.3" />
+							<client>administrator</client>
+						<folder></folder>
+			</update>
+		</updates>
