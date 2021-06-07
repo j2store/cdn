@@ -65,6 +65,7 @@
   "payment_nmi": "1.7",
   "payment_payumoney": "1.2",
   "payment_razorpay": "1.2",
+  "payment_dibseasy": "1.0",
   "com_easycheckout": "1.0.62",
   "app_couponrestriction": "1.0",
   "app_taxrate": "1.9",
