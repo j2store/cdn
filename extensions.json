@@ -159,7 +159,7 @@
   "shipping_dhl": "1.11",
   "shipping_ups": "2.7",
   "shipping_usps": "1.16",
-  "shipping_uspsadvanced": "2.0.1",
+  "shipping_uspsadvanced": "2.0.5",
   "shipping_fedex": "3.9",
   "shipping_fedexadvanced": "1.2",
   "shipping_canadapostrest": "1.12.4",
