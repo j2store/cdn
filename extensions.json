@@ -57,7 +57,7 @@
   "payment_paypalrest": "1.8",
   "payment_interaconline": "1.1",
   "payment_culqi": "1.9",
-  "payment_quickpay": "1.7.1",
+  "payment_quickpay": "1.7.2",
   "payment_payeezy": "1.4",
   "payment_virtualmerchant": "1.5",
   "payment_checkoutfi": "1.5",
