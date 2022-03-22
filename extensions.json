@@ -39,7 +39,7 @@
   "payment_usaepay": "1.7",
   "payment_paymentexpress": "1.22",
   "payment_payulatam": "1.1.0",
-  "payment_sagepayform": "3.13",
+  "payment_sagepayform": "3.14",
   "payment_epdq": "1.10",
   "payment_klarna": "1.32",
   "payment_kcoinvoice": "1.16",
