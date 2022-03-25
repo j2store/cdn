@@ -61,7 +61,7 @@
   "payment_payeezy": "1.4",
   "payment_virtualmerchant": "1.5",
   "payment_checkoutfi": "1.5",
-  "payment_stripecheckout": "1.0.6",
+  "payment_stripecheckout": "1.0.7",
   "payment_nmi": "1.7",
   "payment_payumoney": "1.2",
   "payment_razorpay": "1.2",
