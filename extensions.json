@@ -149,6 +149,7 @@
   "app_contentfields": "1.8",
   "app_invoicegenerator": "1.9",
   "app_shipstation": "1.1.11",
+  "app_euvat": "2.9",
   "shipping_free": "1.0",
   "shipping_postcode": "1.19",
   "shipping_additional": "1.0",
