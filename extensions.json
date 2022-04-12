@@ -52,7 +52,7 @@
   "payment_multisafepay": "1.7",
   "payment_mercadopago": "1.13",
   "payment_tranzila": "1.12",
-  "payment_squareup": "2.0.15",
+  "payment_squareup": "2.0.16",
   "payment_ceca": "1.1",
   "payment_paypalrest": "1.8",
   "payment_interaconline": "1.1",
