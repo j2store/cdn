@@ -128,7 +128,7 @@
   "app_twilio": "1.3",
   "app_recaptcha": "1.3",
   "app_mijomigration": "1.6",
-  "app_cbprofile": "1.6",
+  "app_cbprofile": "1.8",
   "app_incrementalprice": "1.2",
   "app_autocurrencyswitch": "1.0",
   "app_mailchimpbasic": "1.1",
