@@ -34,7 +34,7 @@
   "payment_payfast": "1.9",
   "payment_payson": "1.6",
   "payment_paysoninvoice": "1.4",
-  "payment_mollie": "1.29",
+  "payment_mollie": "1.31",
   "payment_paygate": "1.2",
   "payment_usaepay": "1.7",
   "payment_paymentexpress": "1.22",
