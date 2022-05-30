@@ -30,7 +30,7 @@
   "payment_paypaladvanced": "1.9",
   "payment_paybox": "1.8",
   "payment_moneris": "1.7",
-  "payment_stripe": "1.60",
+  "payment_stripe": "1.61",
   "payment_payfast": "1.9",
   "payment_payson": "1.6",
   "payment_paysoninvoice": "1.4",
