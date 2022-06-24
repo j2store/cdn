@@ -54,7 +54,7 @@
   "payment_tranzila": "1.12",
   "payment_squareup": "2.0.16",
   "payment_ceca": "1.1",
-  "payment_paypalrest": "1.8",
+  "payment_paypalrest": "2.0",
   "payment_interaconline": "1.1",
   "payment_culqi": "1.9",
   "payment_quickpay": "1.7.2",
