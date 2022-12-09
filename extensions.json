@@ -49,7 +49,7 @@
   "payment_braintree": "1.12",
   "payment_sofort": "1.8",
   "payment_voguepay": "1.2",
-  "payment_multisafepay": "1.7",
+  "payment_multisafepay": "1.8",
   "payment_mercadopago": "1.13",
   "payment_tranzila": "1.12",
   "payment_squareup": "2.0.17",
