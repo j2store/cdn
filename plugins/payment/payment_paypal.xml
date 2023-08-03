@@ -17,7 +17,7 @@
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
         <targetplatform name="joomla" version="4.3.3"/>
-        <client>administrator</client>
+        <client>site</client>
         <folder>j2store</folder>
     </update>
     <update>
@@ -38,7 +38,7 @@
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
         <targetplatform name="joomla" version="4.3.3"/>
-        <client>administrator</client>
+        <client>site</client>
         <folder>j2store</folder>
     </update>
 </updates>
