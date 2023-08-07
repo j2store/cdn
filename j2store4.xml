@@ -39,6 +39,9 @@
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
         <targetplatform name="joomla" version="4.0.0"/>
+        <targetplatform name="joomla" version="4.1.0"/>
+        <targetplatform name="joomla" version="4.2.0"/>
+        <targetplatform name="joomla" version="4.3.0"/>
         <client>1</client>
         <folder></folder>
     </update>
