@@ -18,7 +18,7 @@
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
         <targetplatform name="joomla" version="4.0.0"/>
-        <client>1</client>
+        <client>administrator</client>
         <folder></folder>
     </update>
     <update>
@@ -38,11 +38,8 @@
         <maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
-        <targetplatform name="joomla" version="4.0.0"/>
-        <targetplatform name="joomla" version="4.1.0"/>
-        <targetplatform name="joomla" version="4.2.0"/>
-        <targetplatform name="joomla" version="4.3.0"/>
-        <client>1</client>
+        <targetplatform name="joomla" version="4.0"/>
+        <client>administrator</client>
         <folder></folder>
     </update>
 </updates>
