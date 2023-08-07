@@ -38,8 +38,7 @@
         <maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
-        <targetplatform name="joomla" version="4.*"/>
+        <targetplatform name="joomla" version="4.3.3"/>
         <client>administrator</client>
-        <folder></folder>
     </update>
 </updates>
