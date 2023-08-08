@@ -7,7 +7,7 @@
         <version>4.0.1</version>
         <downloads>
             <downloadurl type="full"
-                         format="zip"><![CDATA[https://github.com/J2Store4/j2store4/releases/download/v4.0.0/com_j2store_v4-4.0.0-pro.zip]]>
+                         format="zip"><![CDATA[https://dev.j2store.net/plugin/j2store/payment_paypal.zip]]>
             </downloadurl>
         </downloads>
         <tags>
@@ -16,7 +16,7 @@
         <maintainer>J2Store</maintainer>
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
-        <targetplatform name="joomla" version="4.3.3"/>
+        <targetplatform name="joomla" version="4.*"/>
         <client>site</client>
         <folder>j2store</folder>
     </update>
