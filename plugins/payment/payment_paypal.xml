@@ -7,7 +7,7 @@
         <version>4.0.1</version>
         <downloads>
             <downloadurl type="full"
-                         format="zip"><![CDATA[https://www.j2store.org/plugin/j2store/payment_paypal.zip]]>
+                         format="zip"><![CDATA[https://dev.j2store.net/plugin/j2store/payment_paypal.zip]]>
             </downloadurl>
         </downloads>
         <tags>
@@ -28,7 +28,7 @@
         <version>4.0.0</version>
         <downloads>
             <downloadurl type="full"
-                         format="zip"><![CDATA[https://www.j2store.org/plugin/j2store/payment_paypal.zip]]>
+                         format="zip"><![CDATA[https://dev.j2store.net/plugin/j2store/payment_paypal.zip]]>
             </downloadurl>
         </downloads>
         <tags>
