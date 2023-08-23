@@ -5,10 +5,10 @@
         <description><![CDATA[J2Store Version 4 Professional]]></description>
         <element>com_j2store</element>
         <type>component</type>
-        <version>4.0.0</version>
+        <version>4.0.2</version>
         <downloads>
             <downloadurl type="full"
-                         format="zip"><![CDATA[https://github.com/J2Store4/j2store4/releases/download/v4.0.0/com_j2store_v4-4.0.0-pro.zip]]>
+                         format="zip"><![CDATA[https://github.com/J2Store4/j2store4/releases/download/v4.0.2/com_j2store_v4-4.0.2-pro.zip]]>
             </downloadurl>
         </downloads>
         <tags>
@@ -17,9 +17,8 @@
         <maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
-        <targetplatform name="joomla" version="4.0.0"/>
+        <targetplatform name="joomla" version="4.*"/>
         <client>administrator</client>
-        <folder></folder>
     </update>
     <update>
         <name><![CDATA[J2Store Version 4 Professional]]></name>
@@ -40,5 +39,26 @@
         <section>Updates</section>
         <targetplatform name="joomla" version="4.*"/>
         <client>administrator</client>
+    </update>
+    <update>
+        <name><![CDATA[J2Store Version 4 Professional]]></name>
+        <description><![CDATA[J2Store Version 4 Professional]]></description>
+        <element>com_j2store</element>
+        <type>component</type>
+        <version>4.0.0</version>
+        <downloads>
+            <downloadurl type="full"
+                         format="zip"><![CDATA[https://github.com/J2Store4/j2store4/releases/download/v4.0.0/com_j2store_v4-4.0.0-pro.zip]]>
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer><![CDATA[J2Store - Joomla shopping cart]]></maintainer>
+        <maintainerurl>https://www.j2store.org/</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.0.0"/>
+        <client>administrator</client>
+        <folder></folder>
     </update>
 </updates>
