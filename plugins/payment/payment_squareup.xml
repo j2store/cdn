@@ -1,0 +1,44 @@
+<updates>
+    <update>
+        <name><![CDATA[Squareup Payment]]></name>
+        <description><![CDATA[Squareup Payment]]></description>
+        <element>payment_squareup</element>
+        <type>plugin</type>
+        <version>4.0.1</version>
+        <downloads>
+            <downloadurl type="full"
+                         format="zip"><![CDATA[https://dev.j2store.net/plugin/j2store/payment_squareup.zip]]>
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>J2Store</maintainer>
+        <maintainerurl>https://www.j2store.org/</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.*"/>
+        <client>site</client>
+        <folder>j2store</folder>
+    </update>
+    <update>
+        <name><![CDATA[Squareup Payment]]></name>
+        <description><![CDATA[Squareup Payment]]></description>
+        <element>payment_squareup</element>
+        <type>plugin</type>
+        <version>4.0.0</version>
+        <downloads>
+            <downloadurl type="full"
+                         format="zip"><![CDATA[https://dev.j2store.net/plugin/j2store/payment_squareup.zip]]>
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>J2Store</maintainer>
+        <maintainerurl>https://www.j2store.org/</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.3.3"/>
+        <client>site</client>
+        <folder>j2store</folder>
+    </update>
+</updates>
