@@ -1,7 +1,7 @@
 <updates>
     <update>
-        <name><![CDATA[J2Store Braintree]]></name>
-        <description><![CDATA[J2Store Braintree]]></description>
+        <name><![CDATA[Braintree]]></name>
+        <description><![CDATA[Braintree]]></description>
         <element>payment_braintree</element>
         <type>plugin</type>
         <version>4.0.0</version>
