@@ -1,7 +1,7 @@
 <updates>
     <update>
-        <name><![CDATA[Authorize.Net]]></name>
-        <description><![CDATA[Authorize.Net]]></description>
+        <name><![CDATA[Barclays ePDQ]]></name>
+        <description><![CDATA[Barclays ePDQ]]></description>
         <element>payment_epdq</element>
         <type>plugin</type>
         <version>4.0.0</version>
