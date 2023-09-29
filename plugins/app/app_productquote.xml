@@ -1,7 +1,7 @@
 <updates>
     <update>
-        <name><![CDATA[Ask questio]]></name>
-        <description><![CDATA[Ask questio]]></description>
+        <name><![CDATA[Ask question]]></name>
+        <description><![CDATA[Ask question]]></description>
         <element>app_productquote</element>
         <type>plugin</type>
         <version>4.0.0</version>
