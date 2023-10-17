@@ -1,0 +1,23 @@
+<updates>
+    <update>
+        <name><![CDATA[Imagepopup J2Store]]></name>
+        <description><![CDATA[Imagepopup J2Store]]></description>
+        <element>app_imagepopup</element>
+        <type>plugin</type>
+        <version>4.0.0</version>
+        <downloads>
+            <downloadurl type="full"
+                         format="zip"><![CDATA[https://www.j2store.org/plugin/j2store/app_imagepopup.zip]]>
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>J2Store</maintainer>
+        <maintainerurl>https://www.j2store.org/</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.*"/>
+        <client>site</client>
+        <folder>j2store</folder>
+    </update>
+</updates>
