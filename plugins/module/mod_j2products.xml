@@ -4,6 +4,27 @@
         <description><![CDATA[mod_j2products]]></description>
         <element>mod_j2products</element>
         <type>module</type>
+        <version>1.33</version>
+        <downloads>
+            <downloadurl type="full"
+                         format="zip"><![CDATA[https://www.j2store.org/modules/mod_j2products.zip]]>
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>J2Store</maintainer>
+        <maintainerurl>https://www.j2store.org/</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.*"/>
+        <client>site</client>
+        <folder>j2store</folder>
+    </update>
+    <update>
+        <name><![CDATA[mod_j2products]]></name>
+        <description><![CDATA[mod_j2products]]></description>
+        <element>mod_j2products</element>
+        <type>module</type>
         <version>1.34</version>
         <downloads>
             <downloadurl type="full"
