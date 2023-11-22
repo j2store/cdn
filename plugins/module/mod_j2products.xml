@@ -17,8 +17,8 @@
         <maintainerurl>https://www.j2store.org/</maintainerurl>
         <section>Updates</section>
         <targetplatform name="joomla" version="4.*"/>
-        <client>site</client>
-        <folder>j2store</folder>
+        <client>1</client>
+<!--        <folder>j2store</folder>-->
     </update>
     <update>
         <name><![CDATA[J2Store Products display]]></name>
@@ -39,6 +39,6 @@
         <section>Updates</section>
         <targetplatform name="joomla" version="4.*"/>
         <client>site</client>
-        <folder>j2store</folder>
+<!--        <folder>j2store</folder>-->
     </update>
 </updates>
