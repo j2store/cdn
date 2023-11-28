@@ -7,7 +7,7 @@
         <version>1.0.68</version>
         <downloads>
             <downloadurl type="full"
-                         format="zip"><![CDATA[https://www.j2store.org/component/com_easycheckout.zip]]>
+                         format="zip"><![CDATA[https://www.j2store.org/component/easycheckout.zip]]>
             </downloadurl>
         </downloads>
         <tags>
@@ -28,7 +28,7 @@
         <version>1.0.67</version>
         <downloads>
             <downloadurl type="full"
-                         format="zip"><![CDATA[https://www.j2store.org/component/com_easycheckout.zip]]>
+                         format="zip"><![CDATA[https://www.j2store.org/component/easycheckout.zip]]>
             </downloadurl>
         </downloads>
         <tags>
