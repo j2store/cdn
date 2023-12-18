@@ -1,0 +1,22 @@
+<updates>
+    <update>
+        <name><![CDATA[J2Store Categories]]></name>
+        <description><![CDATA[J2Store Categories]]></description>
+        <element>mod_j2store_categories</element>
+        <type>module</type>
+        <version>4.0.0</version>
+        <downloads>
+            <downloadurl type="full"
+                         format="zip"><![CDATA[https://www.j2store.org/module/mod_j2store_categories.zip]]>
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>J2Store</maintainer>
+        <maintainerurl>https://www.j2store.org/</maintainerurl>
+        <section>Updates</section>
+        <targetplatform name="joomla" version="4.*"/>
+        <client>1</client>
+    </update>
+</updates>
